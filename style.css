@@ -1,0 +1,14 @@
+.divphoto {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin: auto;
+
+}
+img{
+    width: 100%;
+}
+ul li{
+    background-color: darkturquoise;;
+}
